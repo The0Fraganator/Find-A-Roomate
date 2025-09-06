@@ -1,0 +1,25 @@
+v4
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	deleted:    Find-A-Roomate
+#	modified:   README.md
+#	new file:   __pycache__/main.cpython-312.pyc
+#	new file:   main.py
+#	new file:   roommate_finder.db
+#	modified:   run_app.bat
+#	new file:   static/style.css
+#	new file:   templates/chat_assistant.html
+#	new file:   templates/login.html
+#	new file:   templates/matches.html
+#	new file:   templates/no_more_matches.html
+#	new file:   templates/profile_setup.html
+#	new file:   templates/rent_splitter.html
+#	new file:   templates/signup.html
+#	new file:   templates/success_predictor.html
+#	new file:   templates/swipe.html
+#
